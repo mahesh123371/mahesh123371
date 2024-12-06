@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on <b>*Frontend Web Developers*</b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/BASAMAJAYKUMAR](https://github.com/BASAMAJAYKUMAR)
+- 👨‍💻 All of my projects are available at [https://github.com/mahesh123371](https://github.com/mahesh123371)
 
 - 💬 Ask me about *Web Development*
 
