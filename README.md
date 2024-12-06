@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basamajaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="basamajaykumar" /> </p>
 - 🔭 I’m currently working on *<b>ON MY SELF</b>*
 
-- 🌱 I’m currently learning *Node.js and MONGO DB*
+- 🌱 I’m currently learning <b>*Node.js and MONGO DB*</b>
 
 - 👯 I’m looking to collaborate on <b>*Frontend Web Developers*</b>
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/basam-ajay-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basam-ajay-kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/ajay_basam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_basam" height="30" width="40" /></a>
+<a href="https://instagram.com/mahi_mahesh45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_basam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
