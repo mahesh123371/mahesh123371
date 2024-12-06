@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Node.js and MONGO DB*
 
-- 👯 I’m looking to collaborate on *Frontend Web Developers*
+- 👯 I’m looking to collaborate on <b>*Frontend Web Developers*</b>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BASAMAJAYKUMAR](https://github.com/BASAMAJAYKUMAR)
 
