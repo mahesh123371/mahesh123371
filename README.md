@@ -1,5 +1,5 @@
 [![MasterHead](https://wesempire.co.ke/wp-content/uploads/2023/09/web-design.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm BASAM AJAY KUMAR</h1>
+<h1 align="center">Hi 👋, I'm GUMPARLAPATI MAHESH </h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
